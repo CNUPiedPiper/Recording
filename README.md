@@ -6,9 +6,9 @@
 	$apt-get install python-dev
 	
 	$cd GoogleCloudPlatform/speech/cloud-client
-	$pip -r requirement.txt
+	$pip install -r requirement.txt
 
-#### if you failed on this section, after complete what pip saying, try pip --upgrade -r requirement.txt again.
+#### if you failed on this section, after complete what pip saying, *try pip install --upgrade -r requirement.txt* again.
 
 	$apt-get install python-pyaudio
 	
